@@ -1,0 +1,37 @@
+body {
+    background-color: #FB7;
+    color: #520;
+    font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+
+.align {
+    display: block;
+    width: 100%;
+    margin-left: 10%;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
+
+p, li {
+    font-size: 20px;
+    width: 50%;
+}
+
+p {
+    font-style: italic;
+}
+
+.header {
+    background-color: #EA6;
+    color: #410;
+    width: 50%;
+}
+
+
+
+ol li {
+    margin-bottom: 2ch;
+}
